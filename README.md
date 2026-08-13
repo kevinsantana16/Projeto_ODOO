@@ -20,4 +20,4 @@ Sistema de automação corporativa desenvolvido em **Python** para a criação d
 ## ⚙️ Pré-requisitos
 * Python 3.x instalado.
 * Acessos de rede e permissões ativas para os ambientes SAP e Odoo.
-* Credenciais de sistema configuradas de forma segura via variáveis de ambiente.
+
